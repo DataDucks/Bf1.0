@@ -1,5 +1,7 @@
 # Bf1.0
 Scrapes dictionary.com and wordhippo.com with bs4. Scrapes word, definition, synonyms, and antonyms.
+<img src="https://raw.githubusercontent.com/NEDb-tk/Bf1.0/main/example.png"></img><br>
+
 <code>
 Word: Egotism<br>
 
