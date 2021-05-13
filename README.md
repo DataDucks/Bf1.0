@@ -1,7 +1,6 @@
 # Bf1.0
 Scrapes dictionary.com and wordhippo.com with bs4. Scrapes word, definition, synonyms, and antonyms.
-
-<p>
+<code>
 Word: Egotism<br>
 
 Definition: excessive and objectionable reference to oneself in conversation or writing; conceit; boastfulness.<br>
@@ -21,4 +20,4 @@ Antonym: modesty<br>
          humility<br>
          self-abandonment<br>
          
-</p>
+</code>
