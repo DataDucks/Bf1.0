@@ -23,3 +23,4 @@ Antonym: modesty<br>
          self-abandonment<br>
          
 </code>
+<p><b>Tkinter will request a word seven (7) times.<b><p>
