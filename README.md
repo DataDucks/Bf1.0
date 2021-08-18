@@ -23,3 +23,6 @@ Scrapes dictionary.com and wordhippo.com with bs4. Scrapes word, definition, syn
 >         self-abandonment<br>
          
 <p><b>Tkinter will request a word seven (7) times.<b><p>
+ 
+TODO: Remove tkinter, replace with input().
+Remove 7 input requests, create xml for custom # of requests.
